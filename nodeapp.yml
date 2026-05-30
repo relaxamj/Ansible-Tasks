@@ -13,7 +13,7 @@
 
   - name: Clone Node.JS app from Github
     git:
-      repo: "https://github.com/sonam-niit/nodedockerapp.git"
+      repo: "https://github.com"
       dest: /opt/my-node-app
   
   - name: Install Dependencies
